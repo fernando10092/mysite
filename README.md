@@ -55,3 +55,6 @@ pip install -U pytest
 >criação de pastas e arquivos como factory.py e init e demais, pasta test e etc
 pytest
 pip freeze > requirements.txt
+
+#DJANGO VIEWS
+>Arquivos criado nas pastas views em tests e blogs
