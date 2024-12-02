@@ -58,3 +58,8 @@ pip freeze > requirements.txt
 
 #DJANGO VIEWS
 >Arquivos criado nas pastas views em tests e blogs
+
+#DJANGO ADMIN
+python manage.py createsuperuser
+>http://127.0.0.1:8000/admin/   >fernando | Fe171292@
+>
